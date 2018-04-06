@@ -1,0 +1,9 @@
+C:\Users\gyc12\Desktop\VB\VB第二次作業\第一題\第一題\bin\Debug\第一題.exe.config
+C:\Users\gyc12\Desktop\VB\VB第二次作業\第一題\第一題\bin\Debug\第一題.exe
+C:\Users\gyc12\Desktop\VB\VB第二次作業\第一題\第一題\bin\Debug\第一題.pdb
+C:\Users\gyc12\Desktop\VB\VB第二次作業\第一題\第一題\bin\Debug\第一題.xml
+C:\Users\gyc12\Desktop\VB\VB第二次作業\第一題\第一題\obj\Debug\第一題.Resources.resources
+C:\Users\gyc12\Desktop\VB\VB第二次作業\第一題\第一題\obj\Debug\第一題.vbproj.GenerateResource.Cache
+C:\Users\gyc12\Desktop\VB\VB第二次作業\第一題\第一題\obj\Debug\第一題.exe
+C:\Users\gyc12\Desktop\VB\VB第二次作業\第一題\第一題\obj\Debug\第一題.xml
+C:\Users\gyc12\Desktop\VB\VB第二次作業\第一題\第一題\obj\Debug\第一題.pdb
